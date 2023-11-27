@@ -34,3 +34,11 @@ button{
     background-color: darkred;
     color: white;
 }
+#nova_imagem {
+    width: 640px;
+    height: 360px;
+}
+.imagens {
+    width: 100%;
+    text-align: center;
+}
